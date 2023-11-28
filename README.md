@@ -28,7 +28,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://raw.githubusercontent.com/sudharsanakumar18/GCD-of-two-numbers/main/python%202a.png)
 
 
 ## Result:
